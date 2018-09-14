@@ -1,7 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Diese Readme Datei ist in meinem ersten Ruby on Rails Projekt enthalten. Wie meine App aussehen soll werde ich noch entscheiden.
 
 Things you may want to cover:
 
